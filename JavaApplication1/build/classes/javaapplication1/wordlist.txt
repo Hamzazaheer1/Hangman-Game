@@ -1,0 +1,7 @@
+peach
+orange
+blue
+white
+black
+pink
+grey
